@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpalidate",
+        "uuid": 30850926,
+        "checksum": "xvh7xr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
